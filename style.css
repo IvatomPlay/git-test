@@ -1,5 +1,11 @@
+body {
+    font-size: 18px;
+}
+
 form {
     display: grid;
     grid: 15px;
 }
+
+
 
